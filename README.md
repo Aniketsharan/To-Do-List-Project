@@ -1,8 +1,10 @@
 CONSLE BASED TO DO LIST
 # To-Do-List-Project
-The Console-Based To-Do List Manager project is a simple application implemented in C++ that allows users to manage their tasks efficiently. This project provides users with basic functionalities to add, view, mark tasks as completed, and remove tasks from the list, all through a console-based interface.
+The Console-Based To-Do List Manager project is a simple application implemented in C++ that
+allows users to manage their tasks efficiently.This project provides users with basic functionalities
+to add, view, mark tasks as completed, and remove tasks from the list, all through a console-based interface.
 # KEY features
-Task Input: Users can input tasks they want to add to the list.
+Task Input: Users can input tasks they want to add to the list.                                                                                                                                                                                                                                                               
 Add Task: Functionality to add tasks to the list.
 View Tasks: Display the list of tasks with their status (completed or pending).
 Mark Task as Completed: Option to mark tasks as completed.
