@@ -4,8 +4,12 @@ The Console-Based To-Do List Manager project is a simple application implemented
 allows users to manage their tasks efficiently.This project provides users with basic functionalities
 to add, view, mark tasks as completed, and remove tasks from the list, all through a console-based interface.
 # KEY features
-1. Task Input: Users can input tasks they want to add to the list.                                                                                                                                                                                                                                                       
-2. Add Task: Functionality to add tasks to the list.                                                                                                                                                                    
+1. Task Input: Users can input tasks they want to add to the list.                                                                                                                                                                                                                                                 
+2. Add Task: Functionality to add tasks to the list.                                                                                                                                                                   
 3. View Tasks: Display the list of tasks with their status (completed or pending).                                                                       
 4. Mark Task as Completed: Option to mark tasks as completed.                                                                                                                                                          
 5. Remove Task: Ability to remove tasks from the list.                                                                                                                                                                    
+# Technologies Used
+1. Programming Language: C++                                                                                                                                                                                       
+2. Data Structures: Vector for storing tasks                                                                                                                                                                   
+3. Console I/O: Input and output handling for user interaction                                                                                                                                            
